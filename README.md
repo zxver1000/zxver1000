@@ -11,8 +11,7 @@
 <img src="https://img.shields.io/badge/kotlin-007396?style=flat-square&logo=kotlin&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/C++-E34F26?style=flat-square&logo=C++&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Node-007396?style=flat-square&logo=Node&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
-
-<img src="https://img.shields.io/badge/Python-4479A1?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
+<img src="https://img.shields.io/badge/Python-E34F26?style=flat-square&logo=Python&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 
 </div>
 
