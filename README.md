@@ -9,7 +9,7 @@
 <h3>🤗목표</h3>
 백엔드에 관심이 많으며, aws를 통해 서버를 구축하는 것이 현재 목표입니다
 
-<h3>🛠사용언어</h3>
+<h3>🛠TECH</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/SpringFramework-6DB33F?style=flat-square&logo=Spring&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
