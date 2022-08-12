@@ -1,5 +1,5 @@
 
-<h3>🛠TECH</h3>
+<h3>🛠TECH STACK</h3>
 <div>
 <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
 <img src="https://img.shields.io/badge/Flutter-6DB33F?style=flat-square&logo=Flutter&logoColor=white" style="height : auto; margin-left : 10px; margin-right : 10px;"/></a>&nbsp;
