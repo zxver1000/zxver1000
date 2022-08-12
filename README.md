@@ -20,3 +20,7 @@
     <img src="http://img.shields.io/badge/Gmail-EA4335?style=flat&logo=Gmail&logoColor=white&link=https://i987412563i@gmail.com"
         style="height : auto; margin-left : 10px; margin-right : 10px;"/>
 </a>
+
+
+
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=zxver1000)](https://github.com/zxver1000/github-readme-stats)
