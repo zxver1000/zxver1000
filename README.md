@@ -41,7 +41,7 @@
   
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
-  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
 
   
   
@@ -63,7 +63,18 @@
 
 
 
+<h4>OS<h4>
+  
+  <div>
+    
+      <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux%2B%2B&logoColor=white">
+    
+    </div>
 
+  
+  
+  
+  
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxver1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
