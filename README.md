@@ -67,7 +67,7 @@
   
   <div>
     
-      <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux%2B%2B&logoColor=white">
+      <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=linux%2B%2B&logoColor=white">
     
     </div>
 
