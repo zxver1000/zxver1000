@@ -75,7 +75,25 @@
   
   
   
+  <h4>etc</h4>
+  
+  <div>
+    
+         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+  <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
+    
+    </div>
+  
 
+    
+  
+  
+  
+  
+  
+  
+    
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxver1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
