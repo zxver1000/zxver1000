@@ -58,30 +58,20 @@
 
   <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=white">
+  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
   </div>
 
 
 
 
-<h4>OS<h4>
-  
-  <div>
-    
-      <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=linux%2B%2B&logoColor=white">
-      <img src="https://img.shields.io/badge/Linux-00599C?style=flat-square&logo=Linux%2B%2B&logoColor=white">
-    </div>
-
-  
-  
-  
   
   <h4>etc</h4>
   
   <div>
     
-         <img src="https://img.shields.io/badge/python-3776AB?style=flat-square&logo=python&logoColor=white">
+   <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/c++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-  <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
+  
     
     </div>
   
