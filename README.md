@@ -1,7 +1,7 @@
 
 <h3>🛠TECH STACK</h3>
 
-<h5>Android</h5>
+<h5>Mobile</h5>
 <div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 
