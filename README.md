@@ -56,7 +56,7 @@
 <div>
   
 
-  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+  <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
   </div>
