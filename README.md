@@ -33,6 +33,38 @@
   </div>
 
 
+
+<h5>Back-End</h5>
+
+
+<div>
+  
+  
+  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
+  <img src="https://img.shields.io/badge/node.js-339933?style=flat-square&logo=Node.js&logoColor=white"/>
+
+  
+  
+  
+  </div>
+
+
+
+
+<h5>DB</h5>
+
+<div>
+  
+
+  <img src="https://img.shields.io/badge/firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
+   <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=white">
+  </div>
+
+
+
+
+
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zxver1000&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 
