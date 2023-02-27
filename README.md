@@ -42,7 +42,7 @@
   
   <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
-
+  <img src="https://img.shields.io/badge/Nestjs-2496ED?style=flat-square&logo=Nestjs&logoColor=white"/>
   
   
   
@@ -59,7 +59,7 @@
   <img src="https://img.shields.io/badge/Firebase-FFCA28?style=flat-square&logo=firebase&logoColor=white">
    <img src="https://img.shields.io/badge/MongoDB-4479A1?style=flat-square&logo=MongoDB&logoColor=white">
   <img src="https://img.shields.io/badge/mysql-4479A1?style=flat-square&logo=mysql&logoColor=white">  
-  </div>
+</div>
 
 
 
@@ -72,8 +72,8 @@
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
     <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-    </div>
-  
+   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
+
 
     
   <br/>
