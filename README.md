@@ -64,6 +64,15 @@
 
 
 
+<div>
+
+  <h4>CI/CD</h4>
+    <img src="https://img.shields.io/badge/Jenkins-F7DF1E?style=flat-square&logo=Jenkins&logoColor=black">
+  <img src="https://img.shields.io/badge/Argocd-1572B6?style=flat-square&logo=Argo&logoColor=white">
+  
+</div>
+
+
   
   <h4>etc</h4>
   
