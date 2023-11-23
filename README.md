@@ -5,42 +5,15 @@
 <div>
 <img src="https://img.shields.io/badge/Flutter-02569B?style=flat-square&logo=Flutter&logoColor=white">
 
-
-  <img src="https://img.shields.io/badge/Kotlin-007396?style=flat-square&logo=Kotlin&logoColor=white">
   
  
 </div>
-
-
-
-
-
-
-
-<h4>Front-End</h4>
-
-<div>
-  
-    
-  <img src="https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=React&logoColor=white"/>
-  
-
-  <img src="https://img.shields.io/badge/javascript-F7DF1E?style=flat-square&logo=javascript&logoColor=black">
-  <img src="https://img.shields.io/badge/css-1572B6?style=flat-square&logo=css3&logoColor=white">
-  <img src="https://img.shields.io/badge/html5-E34F26?style=flat-square&logo=html5&logoColor=white">
-
-  
-  </div>
-
-
 
 <h4>Back-End</h4>
 
 
 <div>
   
-  
-  <img src="https://img.shields.io/badge/Java-007396?style=flat-square&logo=Java&logoColor=white">
   <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=Node.js&logoColor=white">
   <img src="https://img.shields.io/badge/Nestjs-2496ED?style=flat-square&logo=Nestjs&logoColor=white"/>
   
@@ -73,22 +46,59 @@
 </div>
 
 
+
+
+ <h4>IAC</h4>
   
-  <h4>etc</h4>
+  <div>
+  <img src="https://img.shields.io/badge/Ansible-E34F26?style=flat-square&logo=Ansible&logoColor=white">
+    
+</div>
+  
+ 
+
+
+ <h4>Devops</h4>
+  
+  <div>
+  <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
+    
+</div>
+
+ <h4>Language</h4>
   
   <div>
     
    <img src="https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=Python&logoColor=white">
   <img src="https://img.shields.io/badge/C++-00599C?style=flat-square&logo=c%2B%2B&logoColor=white">
-    <img src="https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=Docker&logoColor=white"/>
-   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=JavaScript&logoColor=black">
+      <img src="https://img.shields.io/badge/TypeScript-007396?style=flat-square&logo=TypeScript&logoColor=white">
+</div>
+
+
+
+##
+
+
+ <h3> ✍️Studying </h3>
+  
+  <div>
+  <img src="https://img.shields.io/badge/GO-007396?style=flat-square&logo=GO&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
+    <img src="https://img.shields.io/badge/Terraform-02569B?style=flat-square&logo=Terraform&logoColor=white">
+
+  
+</div>
+
 
 
     
   <br/>
     <br/>
   
-  
+  <br/>
+    <br/>
   
   
   
