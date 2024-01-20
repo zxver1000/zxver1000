@@ -37,15 +37,6 @@
 
 
 
-<div>
-
-  <h4>CI/CD</h4>
-    <img src="https://img.shields.io/badge/Jenkins-F7DF1E?style=flat-square&logo=Jenkins&logoColor=black">
-  <img src="https://img.shields.io/badge/Argocd-1572B6?style=flat-square&logo=Argo&logoColor=white">
-  
-</div>
-
-
 
 
  <h4>IAC</h4>
@@ -86,9 +77,9 @@
   <div>
   <img src="https://img.shields.io/badge/GO-007396?style=flat-square&logo=GO&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-02569B?style=flat-square&logo=Terraform&logoColor=white">
-
-  
+    <img src="https://img.shields.io/badge/Terraform-02569B?style=flat-square&logo=Terraform&logoColor=white"/>
+    <img src="https://img.shields.io/badge/AWS-9999FF?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+    
 </div>
 
 
