@@ -77,8 +77,9 @@
   <div>
   <img src="https://img.shields.io/badge/GO-007396?style=flat-square&logo=GO&logoColor=white"/>
   <img src="https://img.shields.io/badge/Kubernetes-2496ED?style=flat-square&logo=Kubernetes&logoColor=white"/>
-    <img src="https://img.shields.io/badge/Terraform-02569B?style=flat-square&logo=Terraform&logoColor=white"/>
-    <img src="https://img.shields.io/badge/AWS-9999FF?style=flat-square&logo=AmazonAWS&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Terraform-02569B?style=flat-square&logo=Terraform&logoColor=white"/>
+  <img src="https://img.shields.io/badge/AWS-9999FF?style=flat-square&logo=Amazon&logoColor=white"/>
+  <img src="https://img.shields.io/badge/Spring-007396?style=flat-square&logo=Spring&logoColor=white"/>
     
 </div>
 
